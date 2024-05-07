@@ -1,6 +1,6 @@
 # Ex:03 Correlation and regression for data analysis
 
-# Date:22-9-23
+# Date:
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
